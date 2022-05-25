@@ -48,7 +48,7 @@
 To clone and run this application, you'll need [Git](https://git-scm.com) 
 ```bash
 # Clone this repository
-$ git clone https://github.com/aaron-clarusway/django_TODO_APPS.git
+$ git clone https://github.com/aaron-clarusway/django-todo-app_ch10.git
 
 # Install dependencies
     $ python -m venv env
